@@ -1,8 +1,8 @@
 # Hugo Test Website
 
-## Step 1: Install Hugo (on Mac)
+## Step 1: Install Hugo (on Mac)
 
-`brew install hugo``
+`brew install hugo`
 
 ## Step 2: Create a New Site
 
