@@ -1,5 +1,10 @@
-_site
 .sass-cache
 .DS_Store
-node_modules
+.bin/node_modules/
 prepros-6.config
+src/node_modules/
+src/npm-debug.log.*
+npm-debug.log
+/node_modules/
+/npm-debug.log*
+/dist/
